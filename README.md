@@ -3,10 +3,11 @@
 ## Installation
 I used Python 3.11.4, but other versions probably work fine too.
 
-Download, setup venv, then
+Download, setup venv with `python -m venv .venv`, activate the venv, then
 ```bash
 pip install -r requirements
 ```
+NOTE: These requirements are bloated and should be skimmed aggressively.
 
 ## Usage
 This repo transcripts video streams from the ActivityNet database into `.description` files.
