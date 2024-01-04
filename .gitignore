@@ -1,0 +1,5 @@
+/.venv
+/__pycache__
+/activitynet.sh.log
+/activitynet.sh.processed
+/dataset-zoo
